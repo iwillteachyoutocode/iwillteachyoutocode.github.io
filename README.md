@@ -15,7 +15,7 @@ Coding website that gives you a tutorial on how to code basic HTML.
 <li>  <a href="#p-tag">     Paragraph tags  </a>     </li>
   <li> <a href="#h-tag">      Header tags </a>  </li>
 <li>  <a href="#start">   The start of a webpage  </a>      </li>
- <a href="#lists">   <li>  
+ <a href="#list">   <li>  
     Lists
      </li>  </a>
   </ul>
@@ -49,7 +49,7 @@ Coding website that gives you a tutorial on how to code basic HTML.
 <img   src="https://www.raybriant.com/wp-content/uploads/2011/09/heading-tags.gif">
         
 
-        <h2    id="lists">
+        <h2    id="list">
  Lists       
         
         
