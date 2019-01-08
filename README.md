@@ -15,9 +15,7 @@ Coding website that gives you a tutorial on how to code basic HTML.
 <li>  <a href="#p-tag">     Paragraph tags  </a>     </li>
   <li> <a href="#h-tag">      Header tags </a>  </li>
 <li>  <a href="#start">   The start of a webpage  </a>      </li>
- <a href="#list">   <li>  
-    Lists
-     </li>  </a>
+
   </ul>
 <h2 id="start"> The start of a webpage</h2>
 
@@ -49,23 +47,7 @@ Coding website that gives you a tutorial on how to code basic HTML.
 <img   src="https://www.raybriant.com/wp-content/uploads/2011/09/heading-tags.gif">
         
 
-        <h2    id="list">
- Lists       
-        
-        
-        </h2>
-
-        <p>   Lists are a good way of organizing your website. There are two types of lists, ol for ordered list, and ul for unordered list. You start a list by using a ol or ul tag. You then put the list tag.
-        inside the list tag li you put what you want the list to say. When you have put in what your first thing on your list is, you make another li tag. 
-          You then put in what you want to put for the second thing on your list. You continue making list tags until you think you have
-       the list at your desired size.
-        
-        </p>
-        
-        
-        
-        
-        
+       
         
         
         
